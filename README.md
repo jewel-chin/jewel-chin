@@ -1,1 +1,1 @@
-HI TEST
+Hi 👋, I'm Jewel Chin
