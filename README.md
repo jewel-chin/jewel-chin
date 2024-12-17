@@ -11,5 +11,5 @@ In addition to my tech pursuits, I run a small online apparel art business calle
 - Languages: Python, SQL, HTML, CSS, Javascript/Typescript, Java, C
 - Data Science/ ML/ AI Libraries: Tensorflow (I have dabbled with pytorch before, but i am more familiar with tensorflow), pandas, matplotlib, keras, numpy
 - Software Framework: Shopify Hydrogen (Remix/React-based framework), Dash Plotly, Bootstrap (currently learning)
-- Software Libraries: React.js, Framer Motion, P5.js (currently learning)
+- Software Libraries: React.js, Framer Motion, P5.js, D3.js
 
